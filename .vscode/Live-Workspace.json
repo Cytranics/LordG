@@ -1,0 +1,22 @@
+
+{
+    "profile": "default",
+
+    "protocol": "ftp",
+    "host": "ftps://waws-prod-blu-191.ftp.azurewebsites.windows.net/site/wwwroot",
+    "port": 21,
+    "user": "LordGNode\$LordGNode",
+    "password": "7ySlv80gudhoCe0hKeqeAvhr71sbs2frDmzFMcYQlM3ckMCHTPqYTZp6Db9Q",
+    
+    "remotePath": "/",
+    "uploadOnSave": false,
+    "saveOnCheckIn": false,
+    "clearCacheOnCheckIn": false,
+    
+    "ignore": [
+        "*/.DS_Store",
+        "*/.vscode/*",
+        "*/.git/*",
+        "*/*.LCK"
+    ]
+}
